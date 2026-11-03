@@ -1,0 +1,6 @@
+{
+  "name": "Spooky Kart: Haunted House Pumpkin Chase",
+  "description": "A pastel Halloween Mario Kart-style arcade chase game where you race through a haunted mansion, collect candy points and mystery weapons, and battle the giant evil pumpkin boss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
